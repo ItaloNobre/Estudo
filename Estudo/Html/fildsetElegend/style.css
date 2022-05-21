@@ -1,0 +1,19 @@
+fieldset{
+    background-color: #eee;
+    margin-bottom: 20px;
+    border: 2px solid #ff0000;
+
+}
+legend{
+    background-color: #ff0000;
+    color: #fff;
+
+
+}
+
+.botao:hover{
+    background-color: #ff0000;
+    color: #fff;
+    border: #ff0000;
+
+}

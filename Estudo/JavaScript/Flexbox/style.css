@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.container{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background-color: #00ff00;
+    align-items: flex-start;
+       
+}
+.subcontainer1{
+    display: flex;
+    width: 200px;
+    height: 50px;
+    background-color: #ff0000;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.subcontainer2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 300px;
+    height: 50px;
+    background-color: #c8ff00;
+
+}

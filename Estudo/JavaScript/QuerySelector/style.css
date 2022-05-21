@@ -1,0 +1,18 @@
+
+div {
+    border: 2px solid #000;
+    width: 400px;
+    height: 200px;
+}
+
+.preto {
+    background-color: #000;
+    color: #fff;
+
+}
+.vermelho {
+    background-color: #ff0000;
+}
+.azul {
+    background-color: #0000ff;
+}

@@ -1,0 +1,18 @@
+.azul{
+    background-color: #0000ff;
+    color: #fff;
+}
+.vermelho{
+    background-color: #ff0000;
+    color: #fff;
+}
+.verde{
+    background-color: #00ff00;
+    color: #fff;
+}
+.telefone{
+     
+     display:none;
+     height: 50px;
+     width: 70px;
+}

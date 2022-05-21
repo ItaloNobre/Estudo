@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 50px;
+    font-size: 17px;
+}
+
+h1{
+    font-family: 'Tapestry';
+}
+label{
+    display: block;
+    margin-top: 20px;
+}
+input[type=text],textarea,select{
+    padding: 10px;
+    font-size: 15px;
+    width: 500px;
+    border: 1px solid #ccc;
+    outline: 0px;
+}
+textarea{
+    height: 200px;
+    resize: none;
+}
+.termos{
+color: #000;
+text-decoration: none;
+
+}
+.termos:hover{
+    text-decoration: underline;
+
+}
+
+button{
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    background-color: #eee;
+}
+button:hover{
+    background-color: #ddd;
+
+}
